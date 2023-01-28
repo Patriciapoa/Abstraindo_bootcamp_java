@@ -1,2 +1,2 @@
-# Abstraindo_bootcamp_java
-Abstração de um bootcamp utilizando a linguagem Java, projeto desenvolvido para o bootcamp da GFT em parceria com a DIO.
+# Abstraindo um bootcamp com Java
+Abstração de um bootcamp utilizando a linguagem Java, esse projeto foi desenvolvido com base em uma motivação vinda do bootcamp da GFT em parceria com a DIO.
